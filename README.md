@@ -31,7 +31,7 @@ This project is a simple command-line file system simulator implemented in JavaS
 
 1. Run the application:
    ```bash
-   node index.js
+   npm start
    ```
 
 2. You will be prompted to enter commands. Type any of the supported commands (e.g., `pwd`, `ls`, `mkdir myFolder`, `cd myFolder`, etc.) and press Enter.
