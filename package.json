@@ -1,0 +1,13 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "This project is a simple command-line file system simulator implemented in JavaScript. It simulates the file system of a Linux operating system, allowing users to navigate through directories, create files and directories, and list the contents of the current directory.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
